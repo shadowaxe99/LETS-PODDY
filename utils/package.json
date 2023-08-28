@@ -1,0 +1,20 @@
+{
+  "name": "audio_mate",
+  "version": "1.0.0",
+  "description": "AudioMate GDPR and CCPA Compliance Features",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6",
+    "mongoose": "^6.0.12"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
